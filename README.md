@@ -1,12 +1,29 @@
-<h1 align="center">Hi 👋, I'm Enes Seneman</h1>
-<h3 align="center">I'm currently learning React.JS</h3>
+# Enes Seneman 👋
 
-- 📫 How to reach me **seneman10@gmail.com**
+### Civil Engineer & AI Enthusiast 🏗️🤖
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/senemanenes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/senemanenes/" height="30" width="40" /></a>
-</p>
+I am a **Civil Engineer** based in **Bursa, Turkey**, currently exploring the intersection of engineering and artificial intelligence. My goal is to build practical tools that simplify learning and professional workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 What I'm Doing Right Now
+- 🛠️ Developing AI-driven applications using **Gemini** and **Cursor**.
+- 🐍 Building useful projects with **Python** and **Streamlit**.
+- 📖 Creating the **Seneman Dictionary**, a personal English learning assistant.
+
+### 🛠️ Tech Stack & Tools
+- **AI Tools:** Gemini, Cursor
+- **Programming:** Python
+- **Web:** Streamlit
+- **Version Control:** Git & GitHub
+
+### 📜 Beyond Engineering
+When I'm not coding or on the construction site, I am deeply interested in **Ottoman History** (17th-18th century) and creating historical content for my YouTube channel, **Mahzenden Hikayeler**.
+
+---
+
+### 📬 Connect with me:
+- **Location:** Bursa, Turkey 🇹🇷
+- **Current Project:** Building "Seneman Dictionary" for English learners.
+
+*“Building bridges between engineering and AI, one line of code at a time.”*
